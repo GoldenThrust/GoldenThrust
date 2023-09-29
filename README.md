@@ -3,6 +3,6 @@
 </p>
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GoldenThrust&theme=highcontrast&border_radius=10" alt="stats strea"></a>
+<img src="https://streak-stats.demolab.com/?user=GoldenThrust&theme=highcontrast&border_radius=10" alt="stats strea"></a>
 </p>
 
