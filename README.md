@@ -5,6 +5,3 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=GoldenThrust&theme=highcontrast&border_radius=10" alt="stats strea"></a>
 </p>
-<p align="right">
-  <img src="https://profile-counter.glitch.me/GoldenThrust/count.svg" alt='Visitor Count'>
-</p>
