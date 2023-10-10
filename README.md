@@ -9,3 +9,4 @@
   <img src="https://profile-counter.glitch.me/GoldenThrust/count.svg" alt='Visitor Count'>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenThrust)](https://github.com/anuraghazra/github-readme-stats)
